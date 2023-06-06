@@ -4,7 +4,7 @@
 <h3 align="center">
 I'm Irving Armenta [イルビン アルメンタ] <br />
 </h3>
-<h4 align="center">A front end developer from La Paz, B.C.S, Mexico 🇲🇽 currently living in Japan 🇯🇵</h4>
+<h4 align="center">A front end developer born and raised in La Paz, B.C.S, Mexico 🇲🇽 currently living in Yokohama, Japan 🇯🇵</h4>
 <hr />
 <p align="center">
  <a href="https://www.linkedin.com/in/irv-armenta/" target="__blank" >
